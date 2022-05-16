@@ -13,9 +13,6 @@ Rails.application.routes.draw do
   end
 
 
-
-
-
   # 管理者
 
   namespace :admin do
